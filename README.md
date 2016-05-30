@@ -25,9 +25,9 @@ Quick talk on different Database Systems
 
 ## Other ways of storing data:
 
-* graph databases (under NoSQL)
-* Real time
-* ...
+* graph databases (Neo4j)
+* [Real time](https://en.wikipedia.org/wiki/Real-time_database)
+* NewSQL
 
 
 ## Challenge of the day:
