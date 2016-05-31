@@ -27,7 +27,7 @@ Quick talk on different Database Systems
 
 * graph databases (Neo4j)
 * [Real time](https://en.wikipedia.org/wiki/Real-time_database)
-* NewSQL
+* [NewSQL](https://en.wikipedia.org/wiki/NewSQL) Ex: VoltDB In memory DB
 
 
 ## Challenge of the day:
