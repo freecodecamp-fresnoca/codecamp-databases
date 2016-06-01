@@ -3,17 +3,17 @@ Quick talk on different Database Systems
 
 # Quick look at Databases
 
- [FreeCodeCamp](https://www.freecodecamp.com/challenges/store-data-in-mongodb) uses [MongoDB](https://www.mongodb.com/) as their DB of choice. There are many DB's out there so dont limit yourself to learning just one. 
+ [FreeCodeCamp](https://www.freecodecamp.com/challenges/store-data-in-mongodb) uses [MongoDB](https://www.mongodb.com/) as their DB of choice. There are many DB's out there so don't limit yourself to learning just one. Examples are in the queries folder.
 
 
- * [FreeCodeCamp](https://www.freecodecamp.com/challenges/store-data-in-mongodb) uses MongoDB as their DB of choice. 
+ * [FreeCodeCamp](https://www.freecodecamp.com/challenges/store-data-in-mongodb) uses MongoDB as their DB of choice.
  *  There are many DB's out there that you may run across in your many jobs.
  * The Goal of this talk is to introduce you to different DB's and the specific problems they solve as well as some comparisons.
 
 ## [NoSQL databases:](https://github.com/showcases/nosql-databases)
 * Redis
 * MongoDB
-* ...
+* Lots more!!
 
 ## [Relational DMS:](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
 * Microsoft SQL server
@@ -21,13 +21,13 @@ Quick talk on different Database Systems
 * MySQL/MariaDB
 * Postgres
 * IBM DB2
-* ...
 
 ## Other ways of storing data:
 
 * graph databases (Neo4j)
 * [Real time](https://en.wikipedia.org/wiki/Real-time_database)
 * [NewSQL](https://en.wikipedia.org/wiki/NewSQL) Ex: VoltDB In memory DB
+* GraphQL queries
 
 
 ## Challenge of the day:
